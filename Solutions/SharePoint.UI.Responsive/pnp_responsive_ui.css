@@ -265,13 +265,13 @@
         width: 80%;
     }
 
-    div#searchInputBox, div#searchInputBox div.ms-srch-sb {
+    div#searchInputBox, div.ms-mpSearchBox div.ms-srch-sb {
         float: none;
         height: 22px;
         display: block;
     }
 
-    div#searchInputBox div.ms-srch-sb > a {
+    div.ms-mpSearchBox div.ms-srch-sb > a {
         float: right;
     }
 
